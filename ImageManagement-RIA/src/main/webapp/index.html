@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Login - Image Management</title>
+	<link rel="stylesheet" href="css/login.css">
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+	
+	<script src="javascript/loginManagement.js" charset="utf-8" defer></script>
+	<script src="javascript/utils.js" charset="utf-8" defer></script>
+	
+</head>
+
+<body>
+	<div class="center">
+		
+		<h1>Login</h1>
+		
+		<div class="divider"></div>
+		
+		<div id="errorBox"> </div>
+		
+		<form id="loginForm" action="#">
+			<div id="text_u" class="text">
+				<div id="user" class="user">
+					<input type="text" name="username" id="username" required>
+					<img src="images/user.png"/>
+					<span></span>
+					<label>Username</label>
+				</div> 
+			</div>
+			
+			<div class="fieldDivider"></div>
+			
+			<div id="text_p" class="text">
+				<div id="pwd" class="password">
+					<input type="password" name="password" id="password" required>
+					<img src="images/password.png"/>
+					<span></span>
+					<label>Password</label>
+				</div> 
+			</div>
+			<input id="loginButton" type="submit" value="LOGIN">
+		</form>
+		
+	</div>
+</body>
+</html>
