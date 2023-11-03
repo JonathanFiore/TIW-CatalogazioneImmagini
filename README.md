@@ -92,16 +92,16 @@ _(To simplify the project a concurrency access to the tree has not been managed)
 ### Pictures:
 
 #### Login Page:
-<img src="Login.png" alt="Image 1">
+<img src="ImagesREADME/Login.png" alt="Image 1">
 
 #### Home Page:
-<img src="HomePage.png" alt="Image 2">
+<img src="ImagesREADME/HomePage.png" alt="Image 2">
 
 
 #### Copy Sub Tree:
  The following images show how to copy a subtree with **Drag & Drop function** and give then the possibility to save the chances in the database
 
-<img src="D&D1.jpg" alt="Image 3">
-<img src="D&D2.jpg" alt="Image 4">
+<img src="ImagesREADME/D&D1.jpg" alt="Image 3">
+<img src="ImagesREADME/D&D2.jpg" alt="Image 4">
 
 _Theese pictures are only about the RIA version_
