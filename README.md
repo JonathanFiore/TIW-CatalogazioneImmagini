@@ -99,7 +99,7 @@ _(To simplify the project a concurrency access to the tree has not been managed)
 
 
 #### Copy Sub Tree:
- The following images show how to copy a subtree with **Drag & Drop function** and give then the possibility to save the chances in the database
+ The following images show how to copy a subtree with **Drag & Drop function** and give then the possibility to save the changes in the database
 
 <img src="ImagesREADME/D&D1.jpg" alt="Image 3">
 <img src="ImagesREADME/D&D2.jpg" alt="Image 4">
